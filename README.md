@@ -14,7 +14,7 @@ Greetings! I'm a QA engineer open for new projects and offers.
 
 ## <a target="_blank" href="https://github.com/lenamysterytour/iviTestnew"> UI testing automation project for website [Иви](https://www.ivi.ru/) 
 
-## <a target="_blank" href="https://github.com/lenamysterytour/projectsmeadowsapi"> UI testing automation project for website [Shady Meadows](https://automationintesting.online/) 
+## <a target="_blank" href="https://github.com/lenamysterytour/projectsmeadowsapi"> API testing automation project for website [Shady Meadows](https://automationintesting.online/) 
  
 ### :vulcan_salute: LLAP
 
