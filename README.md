@@ -2,7 +2,7 @@ Greetings! I'm a QA engineer open for new projects and offers.
 
 ### How to reach me:
 
-  <a href="https://t.me/Kaleidoscopeice">
+  <a href="https://t.me/lenamysterytour">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   
